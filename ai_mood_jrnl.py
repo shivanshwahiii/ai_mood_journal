@@ -133,7 +133,7 @@ def main():
     print("═" * 60)
     
 
-    api_key = "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"
+    api_key = "[YOUR_API_KEY]"
     if not api_key:
         print("\n  ERROR: Set GROQ_API_KEY environment variable")
         return
